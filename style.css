@@ -1,0 +1,50 @@
+body{
+    font-family: "Itim", cursive;
+}
+
+h1{
+    font-size: 54px;
+}
+
+.textPlayer{
+    font-size: 24px;
+}
+
+.wrapper{
+    padding-top: 50px;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btnReset{
+    border: none;
+    background: #ff6347;
+    color: #fff;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+.field{
+    margin: 0 auto;
+    max-width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    font-size: 48px;
+}
+
+.blue{
+    color: blue;
+}
+
+.green{
+    color: green;
+}
